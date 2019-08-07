@@ -1,5 +1,12 @@
 # 60daysofudacity
 
+
+Day 36  :- continue my  course
+
+ I’m taking a course on edX! Check it out:
+https://www.edx.org/course/data-science-linear-regression
+
+
 Day 37  :- continue my  course
 
  I’m taking a course on edX! Check it out:
