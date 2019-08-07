@@ -1,5 +1,14 @@
 # 60daysofudacity
 
+Day 37  :- continue my  course
+
+ I’m taking a course on edX! Check it out:
+https://www.edx.org/course/data-science-linear-regression
+
+Getting in the challenge for AWS 
+
+http://udacitymobile.wpengine.com/aws-deepracer-scholarship
+
 Day 38  :-
 
 1. Meeting day with #sg_study_jahm 
