@@ -1,10 +1,11 @@
 # 60daysofudacity
 
-Day 23 :I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
-thanks for the great vertual meeting.  
+Day 23 :
 
+1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
+thanks for the great vertual meeting.  
  
-Day 23 :Get in vertual meeting.  
+2.:Get in vertual meeting.  
 
 study group for #wmn_who_code and I so appreciate these Sunday's with all of woman   
 @Aisha Javed @Agata [OR, USA] @Jess @Ivy @Susanne Brockmann @risper bevalyn @Urvi Soni @Evi @Marwa @Temitope Oladokun @Seeratpal K. Jaura@Helena Barmer  @Sky @Qurat Ul Ain Fatima @Shanmugapriya @Abbie Weisenbloom @Joyce Obi @Aarthi AlagammaiThank you for all
@@ -97,15 +98,10 @@ http://udacitymobile.wpengine.com/aws-deepracer-scholarship
 Day 38  :-
 
 1. Meeting day with #sg_study_jahm 
-
 2.Meeting day with face_detection group 
-
 3. continue my  course
-
  I’m taking a course on edX! Check it out:
-
 https://www.edx.org/course/data-science-linear-regression
-
 4. Study in the challenge for AWS 
 
 http://udacitymobile.wpengine.com/aws-deepracer-scholarship
