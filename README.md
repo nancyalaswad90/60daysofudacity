@@ -43,6 +43,27 @@ study group for #wmn_who_code and I so appreciate these Sunday's with all of wom
 @Aisha Javed @Agata [OR, USA] @Jess @Ivy @Susanne Brockmann @risper bevalyn @Urvi Soni @Evi @Marwa @Temitope Oladokun @Seeratpal K. Jaura@Helena Barmer  @Sky @Qurat Ul Ain Fatima @Shanmugapriya @Abbie Weisenbloom @Joyce Obi @Aarthi AlagammaiThank you for all
 
 
+
+Day 24 :
+-Read this book
+"Best Practices for ML ", by MartinZinkevich
+(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+
+Based on a a suggested by Andrew Trask on twitter.
+here:
+(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+
+
+Day 25 :
+-Read this book
+"Best Practices for ML ", by MartinZinkevich
+(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+
+Based on a a suggested by Andrew Trask on twitter.
+here:
+(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+
+
 Day 26 :-Read this book
 
 "Best Practices for ML ", by MartinZinkevich
