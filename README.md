@@ -1,5 +1,11 @@
 # 60daysofudacity
 
+
+Day  39 :
+ Preparing for my showcase project... :relaxed: 
+
+Search for dataset to add & see what others think about in face_detection group
+
 Day 40 :
 
 -Read about ( An Overview of Federated Learning) 
