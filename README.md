@@ -1,10 +1,42 @@
 # 60daysofudacity
 
+
+
+Day 20 :#60daysofudacity
+
+Read  chapter 4  in DeepLearningBook by Ian Goodfellow and Yoshua Bengio and Aaron Courville. [(link: https://www.deeplearningbook.org) deeplearningbook.org]((link: https://www.deeplearningbook.org/) deeplearningbook.org).
+
+
+Day 21:
+
+-Read this book
+"Best Practices for ML ", by MartinZinkevich
+(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+
+Based on a a suggested by Andrew Trask on twitter.
+here:
+(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+
+
+Day 22:
+
+-Continue reading book chapter
+
+"Best Practices for ML ", by MartinZinkevich
+
+(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+
+Based on a a suggested by Andrew Trask on twitter.
+
+here:(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+
+
+
 Day 23 :
 
 1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
 thanks for the great vertual meeting.  
- 
+ https://twitter.com/AswadNancy/status/1152718930567413760/photo/1
 2.:Get in vertual meeting.  
 
 study group for #wmn_who_code and I so appreciate these Sunday's with all of woman   
