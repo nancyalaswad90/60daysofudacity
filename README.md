@@ -85,6 +85,13 @@ http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
 
 
+Day 29  :- Continue read the book
+"Best Practices for ML ", by MartinZinkevich
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+
+
+
 Day 30  :- finishing read the book
 "Best Practices for ML ", by MartinZinkevich
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
@@ -93,6 +100,8 @@ Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtr
 
 Day 31  :- participant in the course I’m taking a course on edX! Check it out:
 https://www.edx.org/course/data-science-linear-regression
+
+
 
 Day 32 : it's meeting day
 - Meetup #sg_self_educators with @Marwa
