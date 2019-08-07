@@ -1,6 +1,38 @@
 # 60daysofudacity
 
 
+
+
+Day 30  :- finishing read the book
+"Best Practices for ML ", by MartinZinkevich
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+
+
+
+Day 31  :- participant in the course I’m taking a course on edX! Check it out:
+https://www.edx.org/course/data-science-linear-regression
+
+Day 32 : it's meeting day
+- Meetup #sg_self_educators with @Marwa
+- Meetup #sg_prpl_power_rangers with the best @Elena and @Eileen 
+- Meetup #sg_pytorch-robotics Thank you @Helena Barmer and @Muhammad Naufil @Bhanujeet Choudhary @Mohammad Diab @Dammy @Joyce Obi @Joyce @Marwa@erinSnPAI @Oudarjya Sen Sarma @Jess @Mateusz @qursaan @Suraiya Khan @Anju Mercian @Sourav @Ahmed MAGDY EISSA @Ayesha Manzur @Nancy Al Aswad @Droid @Laura A@susyjam @Harkirat @Vipul Aggarwal
+GitHub: https://github.com/EVikVik/60daysofudacity
+
+ Day  33 : 
+
+1. Started going through a series of YouTube tutorials to learn Arduino programming 
+https://youtu.be/addme/uZ-CMR3NttRjkw1KlEde26osvng2VA
+2. I attended #wmn_who_code meet-up
+https://secureprivataischolar.slack.com/archives/CJGTU3V4K/p1564329937308100
+
+
+Day 34   :- continue my  course
+
+ I’m taking a course on edX! Check it out:
+https://www.edx.org/course/data-science-linear-regression
+
+
 Day 35  :- continue my  course
 
  I’m taking a course on edX! Check it out:
