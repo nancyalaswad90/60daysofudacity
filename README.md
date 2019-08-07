@@ -1,5 +1,20 @@
 # 60daysofudacity
 
+Day 38  :-
+
+1. Meeting day with #sg_study_jahm 
+
+2.Meeting day with face_detection group 
+
+3. continue my  course
+
+ I’m taking a course on edX! Check it out:
+
+https://www.edx.org/course/data-science-linear-regression
+
+4. Study in the challenge for AWS 
+
+http://udacitymobile.wpengine.com/aws-deepracer-scholarship
 
 Day  39 :
  Preparing for my showcase project... :relaxed: 
