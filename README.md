@@ -137,10 +137,13 @@ Day 20 :
     1.Continue review lesson 5 : Introducion local and global differential privacy 
     2.Read  chapter 4  in DeepLearningBook by Ian Goodfellow and Yoshua Bengio and Aaron Courville. [(link: https://www.deeplearningbook.org) deeplearningbook.org]((link: https://www.deeplearningbook.org/) deeplearningbook.org).
     3.Participated in Slack discussion
+        
 
 Day 21:
 
+
    1.Continue review lesson 5 : Introducion local and global differential privacy 
+   
    2.Read this book"Best Practices for ML ", by MartinZinkevich
 (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
 
@@ -149,6 +152,7 @@ here:
 (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
 
   3.Participated in Slack discussion
+
 
 
 Day 22:
@@ -167,7 +171,9 @@ here:(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com
  2. Participated in Slack discussion
 
 
+
 Day 23 :
+
 
    1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
 thanks for the great vertual meeting.  
