@@ -361,7 +361,6 @@ Day 42
     1. I watched interesting video for privacy data analysis :  https://www.youtube.com/watch?v=39hNjnhY7cY&feature=youtu.be&a=
 
     2. Vote form multiple options to select Dataset we should work on :
-    
     1. Smile Detection Database (https://data.mendeley.com/datasets/yz4v8tb3tp/5): A dataset which provides lists of image files in LFW(Labelled faces in the wild database - 13k images) which are smiling and not smiling. Possible Application: Smile Detector
     
     2. CMU Face Images (https://data.world/uci/cmu-face-images): A dataset which has face images of people taken with varying pose, expression, eyes, and size. Small dataset of 640 images. Possible application: Expression Detector
