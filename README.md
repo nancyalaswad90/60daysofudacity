@@ -1,6 +1,6 @@
 # 60daysofudacity
 
-Day 1 :#60daysofudacity
+Day 1 :
 
 
     1. Review lesson 2 : Deep Learning with Pytorch 
@@ -98,6 +98,8 @@ Day 14 :
     3.Participated in Slack discussion
     
 Day 15 :
+
+
     1.Continue review lesson 4 : Evaluating the Privacy of a Function
     2.Continue watched the video : Auto ML by Siraj Raval ...https://youtu.be/jn-22XyKsgo
     3.Participated in Slack discussion
@@ -130,23 +132,28 @@ Day 19 :
 
 
 Day 20 :
+
+
     1.Continue review lesson 5 : Introducion local and global differential privacy 
     2.Read  chapter 4  in DeepLearningBook by Ian Goodfellow and Yoshua Bengio and Aaron Courville. [(link: https://www.deeplearningbook.org) deeplearningbook.org]((link: https://www.deeplearningbook.org/) deeplearningbook.org).
-
+    3.Participated in Slack discussion
 
 Day 21:
 
--Read this book"Best Practices for ML ", by MartinZinkevich
+   1.Continue review lesson 5 : Introducion local and global differential privacy 
+   2.Read this book"Best Practices for ML ", by MartinZinkevich
 (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
 
 Based on a a suggested by Andrew Trask on twitter.
 here:
 (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
 
+  3.Participated in Slack discussion
+
 
 Day 22:
 
--Continue reading book chapter
+  1. Continue reading book chapter
 
 "Best Practices for ML ", by MartinZinkevich
 
@@ -155,74 +162,92 @@ Day 22:
 Based on a a suggested by Andrew Trask on twitter.
 
 here:(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
-
+ 
+ 
+ 2. Participated in Slack discussion
 
 
 Day 23 :
 
-1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
+   1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
 thanks for the great vertual meeting.  
  https://twitter.com/AswadNancy/status/1152718930567413760/photo/1
-2.:Get in vertual meeting.  
+ 
+  2.:Get in vertual meeting.  
 
 study group for #wmn_who_code and I so appreciate these Sunday's with all of woman   
 @Aisha Javed @Agata [OR, USA] @Jess @Ivy @Susanne Brockmann @risper bevalyn @Urvi Soni @Evi @Marwa @Temitope Oladokun @Seeratpal K. Jaura@Helena Barmer  @Sky @Qurat Ul Ain Fatima @Shanmugapriya @Abbie Weisenbloom @Joyce Obi @Aarthi AlagammaiThank you for all
-
+ 
+ 3.Participated in Slack discussion
 
 
 Day 24 :
--Read this book
-"Best Practices for ML ", by MartinZinkevich
+
+
+  1. Read this book "Best Practices for ML ", by MartinZinkevich
 (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
 
 Based on a a suggested by Andrew Trask on twitter.
 here:
 (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
-
+   
+   2.Participated in Slack discussion
 
 Day 25 :
--Read this book
-"Best Practices for ML ", by MartinZinkevich
+
+  1.Read this book "Best Practices for ML ", by MartinZinkevich
 (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
 
 Based on a a suggested by Andrew Trask on twitter.
 here:
 (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+ 
+ 2.Participated in Slack discussion
 
+Day 26 :
 
-Day 26 :-Read this book
+1.Read this book
 
 "Best Practices for ML ", by MartinZinkevich
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdfBased on a a suggested by Andrew Trask on twitter.
 here:
 https://twitter.com/iamtrask/status/1151850875473805312Encouraging @Marwaand @Eman  @zeinab iqal  to keep motivation
+2.Participated in Slack discussion
 
 
-Day 27 :- Continue read the book
+Day 27 :
 
-"Best Practices for ML ", by MartinZinkevich
+
+1. Continue read the book "Best Practices for ML ", by MartinZinkevich
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdfBased on a a suggested by Andrew Trask on twitter.here:
 https://twitter.com/iamtrask/status/1151850875473805312
 
+2.Participated in Slack discussion
 
-Day 28  :- Continue read the book
+
+
+Day 28  :
+
+  1. Continue read the book"Best Practices for ML ", by MartinZinkevich
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+  2.Participated in Slack discussion
+
+Day 29  :
+
+  1. Continue read the book"Best Practices for ML ", by MartinZinkevich
+http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+  2.Participated in Slack discussion
+
+
+Day 30  :
+
+    1.  finishing read the book
 "Best Practices for ML ", by MartinZinkevich
 http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
 Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
-
-
-Day 29  :- Continue read the book
-"Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
-
-
-
-Day 30  :- finishing read the book
-"Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
-
+   2.Participated in Slack discussion
 
 Day 31  :- participant in the course I’m taking a course on edX! Check it out:
 https://www.edx.org/course/data-science-linear-regression
