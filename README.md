@@ -376,6 +376,8 @@ Day 42
 
 Day 43
  
+ 
+     Meetup Summary for Face Detection Subgroup
     1. Finalized the dataset. Kaggle Face Detection in Images.
     2. Discussion: Pretrained Models vs Training from scratch — focussing towards pertained models.
     3. Discussion about including privacy concepts while developing face detection application.
