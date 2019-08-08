@@ -2,98 +2,136 @@
 
 Day 1 :#60daysofudacity
 
+
     1. Review lesson 2 : Deep Learning with Pytorch 
     2. Read article on a machine learning tool which acts as a data scientist (https://techcrunch.com/2019/06/27/mits-new-interactive-machine-learning-prediction-tool-could-give-everyone-ai-superpowers/)
     3.
+    
 
 Day 2 :
+
+
     1.Continue review lesson 2 : Deep Learning with Pytorch 
     2. Read an article about Differential Privacy for Deep Learning ..(https://medium.com/secure-and-private-ai-writing-challenge/differential-privacy-for-deep-learning-fbf9a700643c ) 
     3.
 
+
 Day 3 :
+
+
     1.
-    2.
+    2.Read an article about The Future of AI: Federated Learning ...(https://medium.com/secure-and-private-ai-writing-challenge/the-future-of-ai-federated-learning-fe977cdd3c62) 
     3.
-    
+ 
+ 
 Day 4 :
+
+
     1.
-    2.
+    2. Watched Siraj Raval's video on Privacy in data science explaining Federated Learning, Secure Multi-Party Computation and Differential Privacy ..(https://www.youtube.com/watch?v=39hNjnhY7cY&t=4s)
     3.
     
 Day 5 :
+
+
     1.
-    2.
+    2.Watching lecture 2 of Stanford's CS230...http://cs230.stanford.edu/
     3.
     
 Day 6 :
+
+
     1.
-    2.
+    2.Watching lecture 1 of Stanford's CS230 ...  http://cs230.stanford.edu/
     3.
     
 Day 7 :
+
+
+
     1.
-    2.
+    2.Watching lecture 2 of Stanford's CS230...http://cs230.stanford.edu/
     3.
     
 Day 8 :
+
+
     1.
-    2.
+    2.Watching lecture 2 of Stanford's CS230...http://cs230.stanford.edu/
     3.
     
 Day 9 :
+
+
     1.
-    2.
+    2.Read an article about Wolfram Mathematica as your research instrument when doing deep learning (https://medium.com/secure-and-private-ai-math-blogging-competition/wolfram-mathematica-as-your-research-instrument-when-doing-deep-learning-405900c6bace )
     3.
     
 Day 10 :
+
+
     1.
-    2.
+    2.Watching lecture 2 of Stanford's CS230...http://cs230.stanford.edu/
     3.
     
 Day 11 :
+
+
     1.
-    2.
+    2.Watched the video : Auto ML by Siraj Raval ...https://www.youtube.com/watch?v=39hNjnhY7cY&t=4s
     3.
     
 Day 12 :
+
+
     1.
-    2.
+    2. WatchedPie & AI: TensorFlow Specialization Launch @ Google HQ ...https://www.youtube.com/watch?v=69dr4090Y-Q&feature=youtu.be
     3.
     
 Day 13 :
+
+
     1.
-    2.
+    2.Read an article about applications of GAN ....https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900
     3.
     
 Day 14 :
+
+
     1.
-    2.
+    2.Watched the video : Auto ML by Siraj Raval ...https://youtu.be/jn-22XyKsgo
     3.
     
 Day 15 :
     1.
-    2.
+    2.Continue watched the video : Auto ML by Siraj Raval ...https://youtu.be/jn-22XyKsgo
     3.
     
 Day 16 :
+
     1.
-    2.
+    2. Watch Learning Models Using Keras In Python | Edureka ....https://www.youtube.com/watch?v=XNKeayZW4dY
     3.
     
 Day 17 :
+
+
     1.
-    2.
+    2.Read a tutorial to understand about word embeddings, Deep Learning with PyTorch https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
     3.
     
 Day 18 :
+
+
     1.
-    2.
+    2.Read a tutorial to understand about word embeddings, Deep Learning with PyTorch https://pytorch.org/tutorials/beginner/nlp/word_embeddings_tutorial.html
     3.
     
 Day 19 :
+
+
     1.
-    2.
+    2.Read an article about the implementation of object detection....https://medium.com/deepquestai/train-object-detection-ai-with-6-lines-of-code-6d087063f6ff
     3.
 
 
