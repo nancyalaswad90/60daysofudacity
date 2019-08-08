@@ -353,16 +353,23 @@ Day 41
     
     4.Participated in Slack discussion
 
+
+
 Day 42
 
 
     1. I watched interesting video for privacy data analysis :  https://www.youtube.com/watch?v=39hNjnhY7cY&feature=youtu.be&a=
 
     2. Vote form multiple options to select Dataset we should work on :
-        1. Smile Detection Database (https://data.mendeley.com/datasets/yz4v8tb3tp/5): A dataset which provides lists of image files in LFW(Labelled faces in the wild database - 13k images) which are smiling and not smiling. Possible Application: Smile Detector
-        2. CMU Face Images (https://data.world/uci/cmu-face-images): A dataset which has face images of people taken with varying pose, expression, eyes, and size. Small dataset of 640 images. Possible application: Expression Detector
-        3. Kaggle Face Detection Images (https://www.kaggle.com/dataturks/face-detection-in-images): A dataset which has a bounding box labelled facial images. 1100 faces in over 500 images. Possible Application: Face recognition- AI attendance system
-       4. FASSEG Face Semantic Segmentation Dataset(https://data.mendeley.com/datasets/sv7ns5xv7f/1): A dataset which has fully segmented face mask labels on classes mouth, nose, eyes, hair, skin, and background. 200 faces in multiple poses. Possible application: Expression Analyzer, Face mask filters
-        5. Face Research Lab London Set (https://figshare.com/articles/Face_Research_Lab_London_Set/5047666):  A dataset containing images of 102 adult faces with ethnicity, age and gender. Possible application: Age Detector, Gender Detector
+    
+    1. Smile Detection Database (https://data.mendeley.com/datasets/yz4v8tb3tp/5): A dataset which provides lists of image files in LFW(Labelled faces in the wild database - 13k images) which are smiling and not smiling. Possible Application: Smile Detector
+    
+    2. CMU Face Images (https://data.world/uci/cmu-face-images): A dataset which has face images of people taken with varying pose, expression, eyes, and size. Small dataset of 640 images. Possible application: Expression Detector
+    
+    3. Kaggle Face Detection Images (https://www.kaggle.com/dataturks/face-detection-in-images): A dataset which has a bounding box labelled facial images. 1100 faces in over 500 images. Possible Application: Face recognition- AI attendance system
+    
+    4. FASSEG Face Semantic Segmentation Dataset(https://data.mendeley.com/datasets/sv7ns5xv7f/1): A dataset which has fully segmented face mask labels on classes mouth, nose, eyes, hair, skin, and background. 200 faces in multiple poses. Possible application: Expression Analyzer, Face mask filters
+    
+    5. Face Research Lab London Set (https://figshare.com/articles/Face_Research_Lab_London_Set/5047666):  A dataset containing images of 102 adult faces with ethnicity, age and gender. Possible application: Age Detector, Gender Detector
 
 
