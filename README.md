@@ -372,3 +372,16 @@ Day 42
     5. Face Research Lab London Set (https://figshare.com/articles/Face_Research_Lab_London_Set/5047666):  A dataset containing images of 102 adult faces with ethnicity, age and gender. Possible application: Age Detector, Gender Detector
 
 
+
+
+Day 43
+ 
+    1. Finalized the dataset. Kaggle Face Detection in Images.
+    2. Discussion: Pretrained Models vs Training from scratch — focussing towards pertained models.
+    3. Discussion about including privacy concepts while developing face detection application.
+    4. Using pytorch for now, might shift to open cv later.
+    5. Will look for tutorials related to deploying ml model.
+    6.Participated in Slack discussion
+
+
+
