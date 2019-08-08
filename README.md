@@ -139,36 +139,25 @@ Day 20 :
     3.Participated in Slack discussion
         
 
-Day 21:
+
+Day 21 :
 
 
-   1.Continue review lesson 5 : Introducion local and global differential privacy 
-   
-   2.Read this book"Best Practices for ML ", by MartinZinkevich
-(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+    1. Continue review lesson 5 : Introducion local and global differential privacy 
+    2. Read this book"Best Practices for ML ", by MartinZinkevich (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru… ....Based on a a suggested by Andrew Trask on twitter. here: (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+    3. Participated in Slack discussion
 
-Based on a a suggested by Andrew Trask on twitter.
-here:
-(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
-
-  3.Participated in Slack discussion
 
 
 
 Day 22:
 
-  1. Continue reading book chapter
-
-"Best Practices for ML ", by MartinZinkevich
-
-(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
-
-Based on a a suggested by Andrew Trask on twitter.
-
-here:(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+    1. Continue reading book chapter ..."Best Practices for ML ", by MartinZinkevich (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru… 
+    Based on a a suggested by Andrew Trask on twitter. 
+    here:(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
  
  
- 2. Participated in Slack discussion
+    2. Participated in Slack discussion
 
 
 
