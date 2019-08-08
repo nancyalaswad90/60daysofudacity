@@ -1,8 +1,103 @@
 # 60daysofudacity
 
+Day 1 :#60daysofudacity
+
+    1. Review lesson 2 : Deep Learning with Pytorch 
+    2. Read article on a machine learning tool which acts as a data scientist (https://techcrunch.com/2019/06/27/mits-new-interactive-machine-learning-prediction-tool-could-give-everyone-ai-superpowers/)
+    3.
+
+Day 2 :
+    1.Continue review lesson 2 : Deep Learning with Pytorch 
+    2. Read an article about Differential Privacy for Deep Learning ..(https://medium.com/secure-and-private-ai-writing-challenge/differential-privacy-for-deep-learning-fbf9a700643c ) 
+    3.
+
+Day 3 :
+    1.
+    2.
+    3.
+    
+Day 4 :
+    1.
+    2.
+    3.
+    
+Day 5 :
+    1.
+    2.
+    3.
+    
+Day 6 :
+    1.
+    2.
+    3.
+    
+Day 7 :
+    1.
+    2.
+    3.
+    
+Day 8 :
+    1.
+    2.
+    3.
+    
+Day 9 :
+    1.
+    2.
+    3.
+    
+Day 10 :
+    1.
+    2.
+    3.
+    
+Day 11 :
+    1.
+    2.
+    3.
+    
+Day 12 :
+    1.
+    2.
+    3.
+    
+Day 13 :
+    1.
+    2.
+    3.
+    
+Day 14 :
+    1.
+    2.
+    3.
+    
+Day 15 :
+    1.
+    2.
+    3.
+    
+Day 16 :
+    1.
+    2.
+    3.
+    
+Day 17 :
+    1.
+    2.
+    3.
+    
+Day 18 :
+    1.
+    2.
+    3.
+    
+Day 19 :
+    1.
+    2.
+    3.
 
 
-Day 20 :#60daysofudacity
+Day 20 :
 
 Read  chapter 4  in DeepLearningBook by Ian Goodfellow and Yoshua Bengio and Aaron Courville. [(link: https://www.deeplearningbook.org) deeplearningbook.org]((link: https://www.deeplearningbook.org/) deeplearningbook.org).
 
