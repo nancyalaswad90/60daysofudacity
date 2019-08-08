@@ -156,200 +156,213 @@ Day 22:
     Based on a a suggested by Andrew Trask on twitter. 
     here:(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
  
- 
-    2. Participated in Slack discussion
+     2. Participated in Slack discussion
 
 
 
 Day 23 :
 
 
-   1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
-thanks for the great vertual meeting.  
- https://twitter.com/AswadNancy/status/1152718930567413760/photo/1
+    1.I'm so glad to meet you all @Marwa, @bhavz, @zeinab iqal,
+    thanks for the great vertual meeting.  
+    https://twitter.com/AswadNancy/status/1152718930567413760/photo/1
  
-  2.:Get in vertual meeting.  
-
-study group for #wmn_who_code and I so appreciate these Sunday's with all of woman   
-@Aisha Javed @Agata [OR, USA] @Jess @Ivy @Susanne Brockmann @risper bevalyn @Urvi Soni @Evi @Marwa @Temitope Oladokun @Seeratpal K. Jaura@Helena Barmer  @Sky @Qurat Ul Ain Fatima @Shanmugapriya @Abbie Weisenbloom @Joyce Obi @Aarthi AlagammaiThank you for all
+    2.:Get in vertual meeting.  study group for #wmn_who_code and I so appreciate these Sunday's with all of woman   
+    @Aisha Javed @Agata [OR, USA] @Jess @Ivy @Susanne Brockmann @risper bevalyn @Urvi Soni @Evi @Marwa @Temitope Oladokun @Seeratpal K. Jaura@Helena Barmer  @Sky @Qurat Ul Ain Fatima @Shanmugapriya @Abbie Weisenbloom @Joyce Obi @Aarthi AlagammaiThank you for all
  
- 3.Participated in Slack discussion
+    3.Participated in Slack discussion
 
 
 Day 24 :
 
 
-  1. Read this book "Best Practices for ML ", by MartinZinkevich
-(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+    1. Read this book "Best Practices for ML ", by MartinZinkevich
+    (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
 
-Based on a a suggested by Andrew Trask on twitter.
-here:
-(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+     Based on a a suggested by Andrew Trask on twitter.
+    here:
+    (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
    
-   2.Participated in Slack discussion
+    2.Participated in Slack discussion
 
 Day 25 :
 
-  1.Read this book "Best Practices for ML ", by MartinZinkevich
-(link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
+    1.Read this book "Best Practices for ML ", by MartinZinkevich
+    (link: http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) martin.zinkevich.org/rules_of_ml/ru…
 
-Based on a a suggested by Andrew Trask on twitter.
-here:
-(link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
+    Based on a a suggested by Andrew Trask on twitter.here:
+    (link: https://twitter.com/iamtrask/status/1151850875473805312) twitter.com/iamtrask/statu…
  
- 2.Participated in Slack discussion
+    2.Participated in Slack discussion
 
 Day 26 :
 
-1.Read this book
-
-"Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdfBased on a a suggested by Andrew Trask on twitter.
-here:
-https://twitter.com/iamtrask/status/1151850875473805312Encouraging @Marwaand @Eman  @zeinab iqal  to keep motivation
-2.Participated in Slack discussion
+    1.Read this book ... "Best Practices for ML ", by MartinZinkevich
+    http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdfBased on a a suggested by Andrew Trask on twitter. here:
+    https://twitter.com/iamtrask/status/1151850875473805312Encouraging @Marwaand @Eman  @zeinab iqal  to keep motivation
+    2.Participated in Slack discussion
 
 
 Day 27 :
 
 
-1. Continue read the book "Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdfBased on a a suggested by Andrew Trask on twitter.here:
-https://twitter.com/iamtrask/status/1151850875473805312
+     1. Continue read the book "Best Practices for ML ", by MartinZinkevich ..http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdfBased on a a suggested by Andrew Trask on twitter.here:
+    https://twitter.com/iamtrask/status/1151850875473805312
 
-2.Participated in Slack discussion
+     2.Participated in Slack discussion
 
 
 
 Day 28  :
 
-  1. Continue read the book"Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
-  2.Participated in Slack discussion
+    1. Continue read the book"Best Practices for ML ", by MartinZinkevich
+    http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+    Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+    2.Participated in Slack discussion
 
 Day 29  :
 
-  1. Continue read the book"Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
-  2.Participated in Slack discussion
+    1. Continue read the book"Best Practices for ML ", by MartinZinkevich
+    http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+    Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+    2.Participated in Slack discussion
 
 
 Day 30  :
 
-    1.  finishing read the book
-"Best Practices for ML ", by MartinZinkevich
-http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
-Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
-   2.Participated in Slack discussion
+    1.  finishing read the book..."Best Practices for ML ", by MartinZinkevich
+     http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+     Based on a a suggested by Andrew Trask on twitter here:https://twitter.com/iamtrask/status/1151850875473805312
+    2.Participated in Slack discussion
 
-Day 31  :- participant in the course I’m taking a course on edX! Check it out:
-https://www.edx.org/course/data-science-linear-regression
+Day 31  :
+
+    1. participant in the course I’m taking a course on edX! Check it out:...https://www.edx.org/course/data-science-linear-regression
+    2.Participated in Slack discussion
 
 
+Day 32 :
 
-Day 32 : it's meeting day
-- Meetup #sg_self_educators with @Marwa
-- Meetup #sg_prpl_power_rangers with the best @Elena and @Eileen 
-- Meetup #sg_pytorch-robotics Thank you @Helena Barmer and @Muhammad Naufil @Bhanujeet Choudhary @Mohammad Diab @Dammy @Joyce Obi @Joyce @Marwa@erinSnPAI @Oudarjya Sen Sarma @Jess @Mateusz @qursaan @Suraiya Khan @Anju Mercian @Sourav @Ahmed MAGDY EISSA @Ayesha Manzur @Nancy Al Aswad @Droid @Laura A@susyjam @Harkirat @Vipul Aggarwal
-GitHub: https://github.com/EVikVik/60daysofudacity
-
+    1. it's meeting day
+    - Meetup #sg_self_educators with @Marwa
+    - Meetup #sg_prpl_power_rangers with the best @Elena and @Eileen 
+    - Meetup #sg_pytorch-robotics Thank you @Helena Barmer and @Muhammad Naufil @Bhanujeet Choudhary @Mohammad Diab @Dammy @Joyce Obi @Joyce @Marwa@erinSnPAI @Oudarjya Sen Sarma @Jess @Mateusz @qursaan @Suraiya Khan @Anju Mercian @Sourav @Ahmed MAGDY EISSA @Ayesha Manzur @Nancy Al Aswad @Droid @Laura A@susyjam @Harkirat @Vipul Aggarwal
+    GitHub: https://github.com/EVikVik/60daysofudacity
+    2.Participated in Slack discussion
 
 
  Day  33 : 
 
-1. Started going through a series of YouTube tutorials to learn Arduino programming 
-https://youtu.be/addme/uZ-CMR3NttRjkw1KlEde26osvng2VA
-2. I attended #wmn_who_code meet-up
-https://secureprivataischolar.slack.com/archives/CJGTU3V4K/p1564329937308100
+    1. Started going through a series of YouTube tutorials to learn Arduino programming 
+    https://youtu.be/addme/uZ-CMR3NttRjkw1KlEde26osvng2VA
+    2. I attended #wmn_who_code meet-up
+    https://secureprivataischolar.slack.com/archives/CJGTU3V4K/p1564329937308100
+    3.Participated in Slack discussion
+
+
+
+Day 34   :
+
+    1. continue my  course
+
+    I’m taking a course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    2.Participated in Slack discussion
+
+
+
+Day 35  :
+
+    1. continue my  course
+    I’m taking a course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    2.Participated in Slack discussion
 
 
 
 
-Day 34   :- continue my  course
-
- I’m taking a course on edX! Check it out:
-https://www.edx.org/course/data-science-linear-regression
+Day 36  :
 
 
-
-
-Day 35  :- continue my  course
-
- I’m taking a course on edX! Check it out:
-https://www.edx.org/course/data-science-linear-regression
+    1. continue my  course
+    I’m taking a course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    2.Participated in Slack discussion
 
 
 
-
-Day 36  :- continue my  course
-
- I’m taking a course on edX! Check it out:
-https://www.edx.org/course/data-science-linear-regression
+Day 37  :
 
 
 
+    1. continue my  course
+    I’m taking a course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    2.Participated in Slack discussion
 
-Day 37  :- continue my  course
-
- I’m taking a course on edX! Check it out:
-https://www.edx.org/course/data-science-linear-regression
-
-Getting in the challenge for AWS 
-
-http://udacitymobile.wpengine.com/aws-deepracer-scholarship
+    3.Getting in the challenge for AWS  http://udacitymobile.wpengine.com/aws-deepracer-scholarship
 
 
 
 
-Day 38  :-
+Day 38  :
 
-1. Meeting day with #sg_study_jahm 
-2.Meeting day with face_detection group 
-3. continue my  course
- I’m taking a course on edX! Check it out:
-https://www.edx.org/course/data-science-linear-regression
-4. Study in the challenge for AWS 
 
-http://udacitymobile.wpengine.com/aws-deepracer-scholarship
 
+    1. Meeting day with #sg_study_jahm 
+    2.Meeting day with face_detection group 
+    3. continue my  course
+    I’m taking a course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    4. Study in the challenge for AWS 
+    http://udacitymobile.wpengine.com/aws-deepracer-scholarship
 
 
 
 Day  39 :
- Preparing for my showcase project... :relaxed: 
 
-Search for dataset to add & see what others think about in face_detection group
 
+
+    1. Preparing for my showcase project...
+    Search for dataset to add & see what others think about in face_detection group
+    2. continue my  course
+    I’m taking a course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    3.Participated in Slack discussion
 
 
 Day 40 :
 
--Read about ( An Overview of Federated Learning) 
+    1.Read about ( An Overview of Federated Learning) 
 
-https://medium.com/datadriveninvestor/an-overview-of-federated-learning-8a1a62b0600d
-
+    https://medium.com/datadriveninvestor/an-overview-of-federated-learning-8a1a62b0600d
+ 
+    2. continue my  course on edX! Check it out:
+    https://www.edx.org/course/data-science-linear-regression
+    3.Participated in Slack discussion
 
 
 Day 41 
 
-1. Worked again on the notebooks of sections 3 and 4, found and fixed a bug.
 
-2. projects:  Prepared the showcase 
+    1. Worked again on the notebooks of sections 3 and 4, found and fixed a bug.
 
-3. encourage  @Marwa @Eman @zeinab iqal
+    2. projects:  Prepared the showcase 
 
+    3. encourage  @Marwa @Eman @zeinab iqal
+    
+    4.Participated in Slack discussion
 
 Day 42
 
-1. I watched interesting video for privacy data analysis :  https://www.youtube.com/watch?v=39hNjnhY7cY&feature=youtu.be&a=
 
-2. Vote form multiple options to select Dataset we should work on :
-   1. Smile Detection Database (https://data.mendeley.com/datasets/yz4v8tb3tp/5): A dataset which provides lists of image files in LFW(Labelled faces in the wild database - 13k images) which are smiling and not smiling. Possible Application: Smile Detector
-2. CMU Face Images (https://data.world/uci/cmu-face-images): A dataset which has face images of people taken with varying pose, expression, eyes, and size. Small dataset of 640 images. Possible application: Expression Detector
-3. Kaggle Face Detection Images (https://www.kaggle.com/dataturks/face-detection-in-images): A dataset which has a bounding box labelled facial images. 1100 faces in over 500 images. Possible Application: Face recognition- AI attendance system
-4. FASSEG Face Semantic Segmentation Dataset(https://data.mendeley.com/datasets/sv7ns5xv7f/1): A dataset which has fully segmented face mask labels on classes mouth, nose, eyes, hair, skin, and background. 200 faces in multiple poses. Possible application: Expression Analyzer, Face mask filters
-5. Face Research Lab London Set (https://figshare.com/articles/Face_Research_Lab_London_Set/5047666):  A dataset containing images of 102 adult faces with ethnicity, age and gender. Possible application: Age Detector, Gender Detector
+    1. I watched interesting video for privacy data analysis :  https://www.youtube.com/watch?v=39hNjnhY7cY&feature=youtu.be&a=
+
+    2. Vote form multiple options to select Dataset we should work on :
+        1. Smile Detection Database (https://data.mendeley.com/datasets/yz4v8tb3tp/5): A dataset which provides lists of image files in LFW(Labelled faces in the wild database - 13k images) which are smiling and not smiling. Possible Application: Smile Detector
+        2. CMU Face Images (https://data.world/uci/cmu-face-images): A dataset which has face images of people taken with varying pose, expression, eyes, and size. Small dataset of 640 images. Possible application: Expression Detector
+        3. Kaggle Face Detection Images (https://www.kaggle.com/dataturks/face-detection-in-images): A dataset which has a bounding box labelled facial images. 1100 faces in over 500 images. Possible Application: Face recognition- AI attendance system
+       4. FASSEG Face Semantic Segmentation Dataset(https://data.mendeley.com/datasets/sv7ns5xv7f/1): A dataset which has fully segmented face mask labels on classes mouth, nose, eyes, hair, skin, and background. 200 faces in multiple poses. Possible application: Expression Analyzer, Face mask filters
+        5. Face Research Lab London Set (https://figshare.com/articles/Face_Research_Lab_London_Set/5047666):  A dataset containing images of 102 adult faces with ethnicity, age and gender. Possible application: Age Detector, Gender Detector
 
 
