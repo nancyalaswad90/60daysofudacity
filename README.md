@@ -387,3 +387,12 @@ Day 43
 
 
 
+Day 44
+
+
+    1. Read article about Introduction to Decision Intelligence....https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767
+
+    2. projects:  Prepared the showcase 
+
+    3. Participated in Slack discussion
+    
