@@ -396,3 +396,9 @@ Day 44
 
     3. Participated in Slack discussion
     
+
+Day 45
+
+1.Attended a Virtual meet-up with my buddies at #sg_pytorch-robotics @Muhammad Naufil @Juan Carlos Kuri Pinto @Jess @cibaca @Mika @Ivy @Suparna S Nair @Bhadresh Savani @Stanislav Ladyzhenskiy @Mateusz@Nirupama Singh @Ebinbin Ajagun @Ayesha Manzur @Mahitej   @Laura A @Sayed Maheen Basheer @Elena Kutanov @Dammy @Temitope Oladokun @Joy Poddar @Helena Barmer @Oudarjya Sen Sarma @Mr.Robot @Pooja Vinod 
+
+2. Read.  Article https://medium.com/secure-and-private-ai-math-blogging-competition/linear-algebra-and-numpy-ab18214fd752
