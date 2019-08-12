@@ -413,3 +413,12 @@ https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
     2. projects:  Prepared the showcase
 
     3. Participated in Slack discussion
+
+
+
+Day 47
+
+    1. Re-watch ..https://www.youtube.com/watch?v=XNKeayZW4dY
+    2. projects:  Prepared the showcase
+
+    3. Participated in Slack discussion
