@@ -467,3 +467,15 @@ https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
  2. projects:  Prepared the showcase
 
     3. Participated in Slack discussion
+
+
+
+Day 52
+1.Continue Studying course 
+
+https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
+
+ 2. projects:  Prepared the showcase
+
+ 3. Participated in Slack discussion
+
