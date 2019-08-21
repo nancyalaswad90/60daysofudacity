@@ -496,3 +496,10 @@ Day 54
  1. Working and trying to submit the showcase project. 
 
  2. Participated in Slack discussion
+
+
+Day 55
+
+ 1. Working and submit the showcase project in the last hours... 
+
+ 2. Participated in Slack discussion
