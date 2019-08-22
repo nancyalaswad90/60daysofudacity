@@ -503,3 +503,12 @@ Day 55
  1. Working and submit the showcase project in the last hours... 
 
  2. Participated in Slack discussion
+
+
+Day 56
+
+   1.Continue Studying course 
+
+https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
+
+   2.  Participated in Slack discussion
