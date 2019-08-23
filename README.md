@@ -512,3 +512,11 @@ Day 56
 https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
    2.  Participated in Slack discussion
+
+
+Day  57
+
+1. Attended a meetup with our study group #sg_wonder_vision
+with @Helena Barmer @Oudarjya Sen Sarma @Pooja Vinod @Arunn @Sourav  @Abhishek Tandon @Temitope Oladokun @Sreekanth Zipsy @Shashi Gharti @susyjam
+
+2. Participated in Slack discussion
