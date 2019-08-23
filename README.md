@@ -399,18 +399,19 @@ Day 44
 
 Day 45
 
-1.Attended a Virtual meet-up with my buddies at #sg_pytorch-robotics @Muhammad Naufil @Juan Carlos Kuri Pinto @Jess @cibaca @Mika @Ivy @Suparna S Nair @Bhadresh Savani @Stanislav Ladyzhenskiy @Mateusz@Nirupama Singh @Ebinbin Ajagun @Ayesha Manzur @Mahitej   @Laura A @Sayed Maheen Basheer @Elena Kutanov @Dammy @Temitope Oladokun @Joy Poddar @Helena Barmer @Oudarjya Sen Sarma @Mr.Robot @Pooja Vinod 
 
-2. Read.  Article https://medium.com/secure-and-private-ai-math-blogging-competition/linear-algebra-and-numpy-ab18214fd752
+    1.Attended a Virtual meet-up with my buddies at #sg_pytorch-robotics @Muhammad Naufil @Juan Carlos Kuri Pinto @Jess @cibaca @Mika @Ivy @Suparna S Nair @Bhadresh Savani @Stanislav Ladyzhenskiy @Mateusz@Nirupama Singh @Ebinbin Ajagun @Ayesha Manzur @Mahitej   @Laura A @Sayed Maheen Basheer @Elena Kutanov @Dammy @Temitope Oladokun @Joy Poddar @Helena Barmer @Oudarjya Sen Sarma @Mr.Robot @Pooja Vinod 
+
+    2. Read.  Article https://medium.com/secure-and-private-ai-math-blogging-competition/linear-algebra-and-numpy-ab18214fd752
 
 
 
 
 Day 46
 
-    1. Read article.. 
-https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
-    2. projects:  Prepared the showcase
+    1. Read article.. https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
+   
+ 2. projects:  Prepared the showcase
 
     3. Participated in Slack discussion
 
@@ -419,7 +420,8 @@ https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
 Day 47
 
     1. Re-watch ..https://www.youtube.com/watch?v=XNKeayZW4dY
-    2. projects:  Prepared the showcase
+   
+    2. projects:  Prepared the showcase
 
     3. Participated in Slack discussion
 
@@ -427,25 +429,26 @@ Day 47
 
 
 Day 48
-1.Studying course 
 
-https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
- 2. projects:  Prepared the showcase
 
-    3. Participated in Slack discussion
+     1.Studying course https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
+     2. projects:  Prepared the showcase
+
+     3. Participated in Slack discussion
 
 
 
 Day 49
-1.Continue Studying course 
 
-https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
- 2. projects:  Prepared the showcase
 
-    3. Participated in Slack discussion
+     1.Continue Studying course https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
+
+     2. projects:  Prepared the showcase
+
+     3. Participated in Slack discussion
 
 
 
@@ -520,3 +523,13 @@ Day  57
 with @Helena Barmer @Oudarjya Sen Sarma @Pooja Vinod @Arunn @Sourav  @Abhishek Tandon @Temitope Oladokun @Sreekanth Zipsy @Shashi Gharti @susyjam
 
 2. Participated in Slack discussion
+
+
+
+
+Day  58
+
+    1. Read an article about using deep learning to predict stock prices:https://towardsdatascience.com/aifortrading-2edd6fac689d
+
+
+    2. Participated in Slack discussion
