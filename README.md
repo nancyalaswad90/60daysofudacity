@@ -409,11 +409,11 @@ Day 45
 
 Day 46
 
-    1. Read article.. https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
+     1. Read article.. https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
    
-    2. projects:    Prepared the showcase
+     2. projects:    Prepared the showcase
 
-    3. Participated in Slack discussion
+     3. Participated in Slack discussion
 
 
 
@@ -422,11 +422,13 @@ Day 47
 
 
     
-     1. Re-watch ..https://www.youtube.com/watch?v=XNKeayZW4dY
+       1. Re-watch ..https://www.youtube.com/watch?v=XNKeayZW4dY
    
-     2. projects:  Prepared the showcase
+     
+      2. projects:  Prepared the showcase
+     
 
-     3. Participated in Slack discussion
+      3. Participated in Slack discussion
 
 
 
@@ -435,7 +437,7 @@ Day 48
 
 
 
-      1.Studying course https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
+       1.Studying course https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
       2. projects:  Prepared the showcase
 
@@ -451,7 +453,7 @@ Day 49
 
      2. projects:  Prepared the showcase
 
-     3. Participated in Slack discussion
+      3. Participated in Slack discussion
 
 
 
@@ -476,7 +478,7 @@ https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
       2. projects:    Prepared the showcase
 
-      3. Participated in Slack discussion
+       3. Participated in Slack discussion
 
 
 
