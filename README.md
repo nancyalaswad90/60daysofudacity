@@ -409,7 +409,7 @@ Day 45
 
 Day 46
 
-     1. Read article.. https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
+      1. Read article.. https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
    
      2. projects:    Prepared the showcase
 
