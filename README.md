@@ -564,3 +564,15 @@ Day  59
 
 
      2. Participated in Slack discussion
+
+
+
+Day 60 
+
+      Finally completed the 60 days of Udacity challenge completely without missing a day. Overwhelmed by my performance. Thanks, Udacity for encouraging us for this idea . I really enjoy it :sweat_smile:
+
+       1. Update and sharing my github repo for the course:  https://github.com/nancyalaswad90/60daysofudacity
+
+       2. Read article about https://backreaction.blogspot.com/2019/08/you-will-probably-not-understand-this.html?fbclid=IwAR0R40kEVWB90Ng4DTDCSXXKbwNZRqda0bRhV-4QYhrEvT_lYVeEnc1o2UThanks everyone for your support.
+
+        Special thanks to @Marwa @Helena Barmer @Eman @Seeratpal K. Jaura @ayivima @Frida @zeinab iqal
