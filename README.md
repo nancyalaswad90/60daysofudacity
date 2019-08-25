@@ -533,3 +533,11 @@ Day  58
 
 
     2. Participated in Slack discussion
+
+
+Day  59
+
+1. Read an article   https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+
+
+2. Participated in Slack discussion
