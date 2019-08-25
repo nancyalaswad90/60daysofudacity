@@ -410,8 +410,8 @@ Day 45
 Day 46
 
     1. Read article.. https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
-   
- 2. projects:  Prepared the showcase
+   
+    2. projects:    Prepared the showcase
 
     3. Participated in Slack discussion
 
@@ -419,11 +419,14 @@ Day 46
 
 Day 47
 
-    1. Re-watch ..https://www.youtube.com/watch?v=XNKeayZW4dY
-   
-    2. projects:  Prepared the showcase
 
-    3. Participated in Slack discussion
+
+    
+     1. Re-watch ..https://www.youtube.com/watch?v=XNKeayZW4dY
+   
+     2. projects:  Prepared the showcase
+
+     3. Participated in Slack discussion
 
 
 
@@ -432,11 +435,11 @@ Day 48
 
 
 
-     1.Studying course https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
+      1.Studying course https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
-     2. projects:  Prepared the showcase
+      2. projects:  Prepared the showcase
 
-     3. Participated in Slack discussion
+      3. Participated in Slack discussion
 
 
 
@@ -454,90 +457,108 @@ Day 49
 
 Day 50
 
-1.Participated in a meetup with @Helena Barmer @Cynthia-C. @Jess @Pooja  @Viper @Astha Adhikari  @Vamsi @Abhishek Tandon @Seeratpal K. Jaura @Sourav @susyjam @Temitope Oladokun
 
- 2. projects:  Prepared the showcase
+    1.Participated in a meetup with @Helena Barmer @Cynthia-C. @Jess @Pooja  @Viper @Astha Adhikari  @Vamsi @Abhishek Tandon @Seeratpal K. Jaura @Sourav @susyjam @Temitope Oladokun
+
+    2. projects:   Prepared the showcase
  
- 3. Participated in Slack discussion
+    3. Participated in Slack discussion
 
 
 
 Day 51
-1.Continue Studying course 
+
+
+
+      1.Continue Studying course 
 
 https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
- 2. projects:  Prepared the showcase
+      2. projects:    Prepared the showcase
 
-    3. Participated in Slack discussion
+      3. Participated in Slack discussion
 
 
 
 Day 52
-1.Continue Studying course 
 
-https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
- 2. projects:  Prepared the showcase
 
- 3. Participated in Slack discussion
+      1.Continue Studying course 
+
+ https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
+
+      2. projects:     Prepared the showcase
+
+      3. Participated in Slack discussion
 
 
 Day 53
-1.Continue Studying course 
+
+
+
+      1.Continue Studying course 
 
 https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
- 2. projects:  Prepared the showcase
+      2. projects:    Prepared the showcase
 
- 3. Participated in Slack discussion
+      3. Participated in Slack discussion
 
 
 
 Day 54
 
- 1. Working and trying to submit the showcase project. 
 
- 2. Participated in Slack discussion
+
+    1. Working and trying to submit the showcase project. 
+
+    2. Participated in Slack discussion
 
 
 Day 55
 
- 1. Working and submit the showcase project in the last hours... 
 
- 2. Participated in Slack discussion
+     1. Working and submit the showcase project in the last hours... 
+
+     2. Participated in Slack discussion
 
 
 Day 56
 
-   1.Continue Studying course 
+
+     1.Continue Studying course 
 
 https://www.coursera.org/learn/deep-neural-network/notebook/eNLYh/optimization
 
-   2.  Participated in Slack discussion
+    2.  Participated in Slack discussion
 
 
 Day  57
 
-1. Attended a meetup with our study group #sg_wonder_vision
+
+
+     1. Attended a meetup with our study group #sg_wonder_vision
 with @Helena Barmer @Oudarjya Sen Sarma @Pooja Vinod @Arunn @Sourav  @Abhishek Tandon @Temitope Oladokun @Sreekanth Zipsy @Shashi Gharti @susyjam
 
-2. Participated in Slack discussion
+
+    2. Participated in Slack discussion
 
 
 
 
 Day  58
 
-    1. Read an article about using deep learning to predict stock prices:https://towardsdatascience.com/aifortrading-2edd6fac689d
+     1. Read an article about using deep learning to predict stock prices:https://towardsdatascience.com/aifortrading-2edd6fac689d
 
 
-    2. Participated in Slack discussion
+     2. Participated in Slack discussion
 
 
 Day  59
 
-1. Read an article   https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
+
+     1. Read an article   https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b
 
 
-2. Participated in Slack discussion
+     2. Participated in Slack discussion
